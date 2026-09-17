@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5f7fb" />
+    <meta name="description" content="27 届校招企业导航，聚焦销售、采购、供应链、外贸与管培生方向，并包含外企专区。" />
+    <title>27 校招航线｜销售 · 采购 · 供应链 · 外贸</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="jobs.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#directory">跳到企业列表</a>
+    <header class="topbar">
+      <div class="topbar__inner shell">
+        <a class="brand" href="#" aria-label="27 校招航线首页">
+          <span class="brand__mark" aria-hidden="true"><span>27</span></span>
+          <span class="brand__text"><strong>校招航线</strong><small>销售 · 采购 · 供应链 · 外贸</small></span>
+        </a>
+        <nav class="nav" aria-label="主导航">
+          <button class="nav__link is-active" type="button" data-zone="all">全部企业</button>
+          <button class="nav__link" type="button" data-zone="foreign">外企专区 <span class="nav__count" id="navForeignCount">0</span></button>
+          <a class="nav__link" href="#directions">方向匹配</a>
+          <a class="nav__link" href="#jobs">岗位雷达</a><a class="nav__link" href="#data-note">数据说明</a>
+        </nav>
+        <button class="mobile-filter-button" id="mobileFilterButton" type="button" aria-expanded="false"><span aria-hidden="true">☷</span> 筛选</button>
+      </div>
+    </header>
+    <main>
+      <section class="hero">
+        <div class="hero__glow hero__glow--one" aria-hidden="true"></div>
+        <div class="hero__glow hero__glow--two" aria-hidden="true"></div>
+        <div class="shell hero__inner">
+          <div class="hero__content">
+            <div class="eyebrow"><span class="eyebrow__dot"></span>2027 届秋招 · 首版企业导航</div>
+            <h1>把适合你的企业，<br /><span>收进一张投递地图。</span></h1>
+            <p>聚焦销售、采购、供应链、外贸与管培生方向。先从企业和官方招聘入口开始，再逐步补充岗位、截止时间与更新状态。</p>
+            <div class="hero-search">
+              <span class="hero-search__icon" aria-hidden="true">⌕</span>
+              <input id="searchInput" type="search" autocomplete="off" placeholder="搜索企业、行业、城市或方向，例如：P&amp;G、采购、上海" aria-label="搜索企业" />
+              <kbd>/</kbd>
+            </div>
+            <div class="hero__shortcuts" aria-label="快速筛选方向">
+              <span>快速看：</span>
+              <button type="button" data-shortcut-direction="销售">销售</button>
+              <button type="button" data-shortcut-direction="采购">采购</button>
+              <button type="button" data-shortcut-direction="供应链">供应链</button>
+              <button type="button" data-shortcut-direction="外贸">外贸</button>
+              <button type="button" data-shortcut-direction="管培生">管培生</button>
+            </div>
+          </div>
+          <aside class="hero__panel" aria-label="首版数据概况">
+            <div class="hero-card hero-card--primary">
+              <span class="hero-card__label">首版收录</span><strong id="heroCompanyCount">0</strong><p>家重点企业</p>
+              <div class="mini-bars" aria-hidden="true"><span style="--w: 90%"></span><span style="--w: 72%"></span><span style="--w: 82%"></span><span style="--w: 61%"></span></div>
+            </div>
+            <div class="hero-card"><span class="hero-card__label">外企专区</span><strong id="heroForeignCount">0</strong><p>家外企与合资企业</p></div>
+            <div class="hero-card"><span class="hero-card__label">优先方向</span><div class="hero-card__tags"><span>销售</span><span>采购</span><span>供应链</span><span>外贸</span></div></div>
+          </aside>
+        </div>
+      </section>
+      <section class="stats-strip" aria-label="名录统计">
+        <div class="shell stats-strip__grid">
+          <div class="stat"><span class="stat__icon">企</span><div><strong id="statTotal">0</strong><small>企业总数</small></div></div>
+          <div class="stat"><span class="stat__icon stat__icon--blue">外</span><div><strong id="statForeign">0</strong><small>外企专区</small></div></div>
+          <div class="stat"><span class="stat__icon stat__icon--amber">向</span><div><strong id="statDirections">5</strong><small>匹配方向</small></div></div>
+          <div class="stat"><span class="stat__icon stat__icon--green">新</span><div><strong id="statUpdated">--</strong><small>最近核验</small></div></div>
+        </div>
+      </section>
+      <section class="section shell" id="directions">
+        <div class="section-heading">
+          <div><span class="section-kicker">DIRECTION FIRST</span><h2>按你的求职方向找公司</h2></div>
+          <p>点击方向即可直接筛选，不要求每家公司同时具备全部方向。</p>
+        </div>
+        <div class="direction-grid" id="directionGrid"></div>
+      </section>
+      <section class="jobs-section shell" id="jobs">
+        <div class="section-heading jobs-heading">
+          <div><span class="section-kicker">LIVE JOB RADAR</span><h2>岗位雷达</h2></div>
+          <div class="jobs-sync"><span class="live-dot"></span><strong id="jobsUpdated">正在同步</strong><small id="jobsSourceCount">公开岗位源</small></div>
+        </div>
+        <div class="jobs-panel">
+          <div class="jobs-toolbar">
+            <div class="jobs-search"><span aria-hidden="true">⌕</span><input id="jobSearchInput" type="search" placeholder="搜索公司或岗位，例如：采购、供应链、海外销售" aria-label="搜索岗位" /></div>
+            <div class="jobs-chips" id="jobDirectionFilters"></div>
+          </div>
+          <div class="jobs-meta"><span>优先展示与你方向相关的公开校招岗位</span><span id="jobsResultCount">0 条</span></div>
+          <div class="job-grid" id="jobGrid"></div>
+          <div class="jobs-empty" id="jobsEmpty" hidden>暂时没有匹配岗位，换一个关键词试试。</div>
+          <div class="jobs-more-wrap"><button class="button button--secondary" id="jobsMore" type="button">显示更多岗位</button></div>
+          <p class="jobs-disclaimer">本站为个人求职信息导航，与各企业无隶属或代理关系。岗位自动同步自公开的 27 届秋招信息汇总表，仅作信息参考，可能随时截止或调整；企业名称和商标归原权利人，正式投递前请以企业官方招聘页为准。<a href="https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw" target="_blank" rel="noopener noreferrer">查看原始信息表 ↗</a></p>
+        </div>
+      </section>      <section class="directory-section" id="directory">
+        <div class="shell directory-layout">
+          <aside class="filters" id="filtersPanel" aria-label="筛选条件"><div class="mobile-zone-switch"><button type="button" data-zone="all">全部企业</button><button type="button" data-zone="foreign">外企专区</button></div>
+            <div class="filters__head"><div><strong>筛选企业</strong><small id="filterSummary">按方向、类型和城市组合筛选</small></div><button id="clearFilters" class="text-button" type="button">清空</button></div>
+            <div class="filter-group"><label>求职方向</label><div class="choice-list" id="directionFilters"></div></div>
+            <div class="filter-group"><label for="industryFilter">行业</label><select id="industryFilter"><option value="">全部行业</option></select></div>
+            <div class="filter-group"><label for="cityFilter">工作城市</label><select id="cityFilter"><option value="">全部城市</option></select></div>
+            <div class="filter-group"><label for="ownershipFilter">企业性质</label><select id="ownershipFilter"><option value="">全部性质</option></select></div>
+            <div class="filter-group"><label class="switch-row" for="hotOnly"><span><strong>优先关注</strong><small>更贴近当前四类方向的企业</small></span><input id="hotOnly" type="checkbox" /><span class="switch" aria-hidden="true"></span></label></div>
+            <div class="filter-tip"><span aria-hidden="true">i</span><p>首版只做企业层信息。具体岗位、批次和截止时间请点进官网确认。</p></div>
+          </aside>
+          <section class="results" aria-live="polite">
+            <div class="results__head">
+              <div><span class="section-kicker" id="resultKicker">ALL COMPANIES</span><h2 id="resultTitle">企业名录</h2><p id="resultDescription">官方招聘入口与企业信息汇总</p></div>
+              <div class="results__tools"><span id="resultCount">0 家</span><label class="sort-control"><span>排序</span><select id="sortSelect"><option value="recommended">优先推荐</option><option value="name">企业名称</option><option value="foreign">外企优先</option></select></label></div>
+            </div>
+            <div class="active-filters" id="activeFilters" hidden></div>
+            <div class="company-grid" id="companyGrid"></div>
+            <div class="empty-state" id="emptyState" hidden><span aria-hidden="true">⌕</span><h3>没有找到匹配企业</h3><p>试试减少筛选条件，或者搜索企业简称和英文名。</p><button id="emptyReset" type="button">查看全部企业</button></div>
+          </section>
+        </div>
+      </section>
+      <section class="data-note shell" id="data-note">
+        <div class="data-note__icon" aria-hidden="true">✓</div>
+        <div><strong>首版数据说明</strong><p>本站是非官方、非商业的个人求职信息导航，不代表全网完整企业名单，也不保证岗位持续有效。优先整理销售、采购、供应链、外贸和管培生方向的企业官方入口，投递前请再次核对官方页面。</p></div>
+        <span class="data-note__date" id="dataNoteDate">核验于 --</span>
+      </section>
+    </main>
+    <footer class="footer">
+      <div class="shell footer__inner">
+        <div class="footer__brand"><span class="brand__mark brand__mark--small" aria-hidden="true"><span>27</span></span><div><strong>27 校招航线</strong><p>先把企业找全，再把投递做轻。</p></div></div>
+        <div class="footer__meta"><span>非官方信息导航</span><span>官方链接优先</span><span>非商业用途</span></div>
+      </div>
+    </footer>
+    <div class="modal" id="companyModal" hidden><div class="modal__backdrop" data-close-modal></div><section class="modal__panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="modal__close" type="button" data-close-modal aria-label="关闭详情">×</button><div id="modalContent"></div></section></div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="data/companies.js"></script>
+    <script src="data/live-jobs.js"></script>
+    <script src="jobs.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
