@@ -1,32 +1,10 @@
 {
-  "updatedAt": "2026-09-23 00:27",
+  "updatedAt": "2026-09-23 06:28",
   "date": "2026-09-23",
   "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw",
   "sourceTotal": 187,
   "relevantCount": 73,
   "jobs": [
-    {
-      "name": "路特创新",
-      "job": "技术类：结构助理工程师、嵌入式助理工程师、AI软件产品助理； • 运营类：海外营销运营助理、用户运营、项目管理助理； • 设计类：交互设计助理、体验设计助理、视觉设计助理； • 综合类：HRBP助理、物流助理、法务助理、会计助理",
-      "deadline": "尽快投递",
-      "directions": [
-        "供应链",
-        "外贸"
-      ],
-      "index": 0,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "货拉拉",
-      "job": "管培生类 · 全球拓展管培生（GMT），技术类，产品类，运营类，商业分析类",
-      "deadline": "尽快投递",
-      "directions": [
-        "外贸",
-        "管培生"
-      ],
-      "index": 1,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
     {
       "name": "淘天集团",
       "job": "研发、算法、安全、销售数据/产品/运营/设计",
@@ -44,17 +22,7 @@
       "directions": [
         "供应链"
       ],
-      "index": 14,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "Sea",
-      "job": "全球管理培训生",
-      "deadline": "尽快投递",
-      "directions": [
-        "管培生"
-      ],
-      "index": 15,
+      "index": 12,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -64,96 +32,59 @@
       "directions": [
         "管培生"
       ],
-      "index": 25,
+      "index": 17,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "昂科技术",
-      "job": "🔹研发技术类：嵌入式软件工程师、FPGA工程师、硬件设计工程师、信号完整性工程师、硬件测试工程师、工艺工程师、机械工程师、驱动工程师； 🔹销售技术支持类：销售工程师、技术支持工程师； 🔹职能综合类：财务、人力、供应链相关岗位",
+      "name": "路特创新",
+      "job": "技术类：结构助理工程师、嵌入式助理工程师、AI软件产品助理； • 运营类：海外营销运营助理、用户运营、项目管理助理； • 设计类：交互设计助理、体验设计助理、视觉设计助理； • 综合类：HRBP助理、物流助理、法务助理、会计助理",
       "deadline": "尽快投递",
       "directions": [
-        "销售",
-        "供应链"
+        "供应链",
+        "外贸"
       ],
-      "index": 32,
+      "index": 19,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "格力电器",
-      "job": "大类：技术研发、信息技术、技术支持、制造技术、经营销售、行政职能、采购物流 ； 岗位：结构设计、制冷技术、电气设计、电控软硬件等，更多详见网申职位",
+      "name": "Sea",
+      "job": "全球管理培训生",
       "deadline": "尽快投递",
       "directions": [
-        "销售",
-        "采购",
-        "供应链"
+        "管培生"
+      ],
+      "index": 29,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "货拉拉",
+      "job": "管培生类 · 全球拓展管培生（GMT），技术类，产品类，运营类，商业分析类",
+      "deadline": "尽快投递",
+      "directions": [
+        "外贸",
+        "管培生"
+      ],
+      "index": 30,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "李森智能",
+      "job": "产品/电商运营/跨境电商",
+      "deadline": "尽快投递",
+      "directions": [
+        "外贸"
       ],
       "index": 33,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "奥克斯",
-      "job": "电控硬件研发｜嵌入式软件｜仿真结构｜材料工艺｜产品规划｜供应链运营｜全球化营销｜智领管培（理工 / 商科多专业可投",
-      "deadline": "尽快投递",
-      "directions": [
-        "供应链",
-        "管培生"
-      ],
-      "index": 34,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "嘉士伯",
-      "job": "商务（销售 数字化营销）/供应链（包装 酿造 仓储 采购）/职能（市场 人力资源）",
-      "deadline": "尽快投递",
-      "directions": [
-        "销售",
-        "采购",
-        "供应链"
-      ],
-      "index": 36,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "银泰商业",
-      "job": "AI 系统工程师，业务管培生，服务运营管培生，AI创意设计管培生，智能账务管培生等",
-      "deadline": "尽快投递",
-      "directions": [
-        "管培生"
-      ],
-      "index": 37,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "锐捷网络",
-      "job": "🔹研发类：嵌入式、软件开发、测试、算法、技术研究等； 🔹产品类：产品经理、产品运营； 🔹市场销售类：销售工程师、营销管培、技术支持； 🔹设计类：UI/UX设计； 🔹职能类：人力、财务、供应链、综合管培生等",
-      "deadline": "尽快投递",
-      "directions": [
-        "销售",
-        "供应链",
-        "管培生"
-      ],
-      "index": 39,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "扬腾创新",
-      "job": "算法/战略/供应链/运营/技术研发",
+      "name": "海能达通信",
+      "job": "技术类（软件/硬件）、产品类、市场类（国内/海外）、设计类、职能类、供应链类",
       "deadline": "尽快投递",
       "directions": [
         "供应链"
       ],
-      "index": 41,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "三一集团",
-      "job": "研发技术、计算机及AI、生产制造、营销服务、商务采购、财务金融、综合管理",
-      "deadline": "尽快投递",
-      "directions": [
-        "销售",
-        "采购"
-      ],
-      "index": 42,
+      "index": 35,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -164,145 +95,18 @@
         "采购",
         "供应链"
       ],
-      "index": 44,
+      "index": 36,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "天赐材料",
-      "job": "1、 研发工艺类 ； 2、 制造技术类； 3、 运营支持类； 4、 职能类； 5、 销售类",
-      "deadline": "尽快投递",
-      "directions": [
-        "销售"
-      ],
-      "index": 48,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "九号公司",
-      "job": "研发、产品、设计、营销、供应链、职能、质量等",
-      "deadline": "尽快投递",
-      "directions": [
-        "供应链"
-      ],
-      "index": 50,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "图拉斯",
-      "job": "国内营销 | 海外营销 | 财务金融 | 管理类",
-      "deadline": "尽快投递",
-      "directions": [
-        "外贸"
-      ],
-      "index": 51,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "海能达通信",
-      "job": "技术类（软件/硬件）、产品类、市场类（国内/海外）、设计类、职能类、供应链类",
-      "deadline": "尽快投递",
-      "directions": [
-        "供应链"
-      ],
-      "index": 53,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "三棵树",
-      "job": "I类：AI应用与数智化工程师，场景AI应用工程师等； 营销业务类：B端/C端营销、仿石漆营销、海外营销（小语种优先）； 技术研发类：产品管理、质量检测（高分子/化工/材料类优先）； 供应链类：生产管理、采购、计划、物流管理； 职能支持类：财务、品牌设计、行政接待、数智中心",
-      "deadline": "尽快投递",
-      "directions": [
-        "采购",
-        "供应链",
-        "外贸"
-      ],
-      "index": 55,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "曼伦",
-      "job": "产品、运营、内容、主播、数据营销、组织发展、供应链等",
-      "deadline": "尽快投递",
-      "directions": [
-        "供应链"
-      ],
-      "index": 56,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "极兔速递",
-      "job": "产品研发类：算法、产品、技术开发等； 物流营运类：营运管培、质量、供应链等； 财务审计类：财务、审计、风控等； 综合职能类：人力、法务、品牌、采购等； 小语种类：西语、葡语、阿语、东南亚语种相关岗位； 海外管培：多国海外驻地岗位，出海发展机会丰富",
-      "deadline": "",
-      "directions": [
-        "采购",
-        "供应链",
-        "管培生"
-      ],
-      "index": 57,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "RoboSense速腾聚创",
-      "job": "产品管理族； ； 研发技术族； ； 供应链族； ； 专业职能族； ； 市场营销族",
-      "deadline": "尽快投递",
-      "directions": [
-        "供应链"
-      ],
-      "index": 58,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "SHEIN",
-      "job": "✅供应链仓储：供应链/EHS管培、关务、国际物流、仓网计划、仓储质量、安全运营； ✅服装商品：商品企划、买手、数据分析师、项目管理、精益工程师、质量、供应商、招商、面辅料； ✅技术：Java工程师（广州）； ✅营销运营：营销中台管培、平台治理、KOL营销、大促运营",
-      "deadline": "尽快投递",
-      "directions": [
-        "供应链",
-        "管培生"
-      ],
-      "index": 59,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "李森智能",
-      "job": "产品/电商运营/跨境电商",
-      "deadline": "尽快投递",
-      "directions": [
-        "外贸"
-      ],
-      "index": 62,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "特锐德",
-      "job": "研发技术类、研发技术类、营销商务类、职能综合类",
-      "deadline": "",
-      "directions": [
-        "销售"
-      ],
-      "index": 67,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "浩鲸科技",
-      "job": "🔹算法研发类：推理加速工程师、VLA 算法工程师、导航与控制算法工程师、强化学习运控算法工程师、语音算法工程师； 🔹硬件嵌入式类：嵌入式软件工程师； 🔹软件开发类：Java 开发工程师、后端开发工程师； 🔹国际业务类：海外销售管培生、交付运维工程师、国际交付工程师、项目经理管培生等； 🔹产品职能类：产品经理管培生、交付工程师、人力资源管培生",
+      "name": "阳光保险",
+      "job": "数据挖掘、AI应用、领鹰管培生，科技培训生，管理培训生，销售培训生",
       "deadline": "尽快投递",
       "directions": [
         "销售",
-        "外贸",
         "管培生"
       ],
-      "index": 68,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "牧原集团",
-      "job": "岗位方向：肉食生产、采购、环保、制冷、工艺设备、数字化算法、供应链、财务、人力、养殖储备、饲料技术等",
-      "deadline": "尽快投递",
-      "directions": [
-        "采购",
-        "供应链"
-      ],
-      "index": 69,
+      "index": 40,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -316,29 +120,27 @@
         "外贸",
         "管培生"
       ],
-      "index": 73,
+      "index": 41,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "富特科技",
-      "job": "营销、技术研发、管培、项目管理、供应链",
+      "name": "RoboSense速腾聚创",
+      "job": "产品管理族； ； 研发技术族； ； 供应链族； ； 专业职能族； ； 市场营销族",
       "deadline": "尽快投递",
       "directions": [
-        "供应链",
-        "管培生"
+        "供应链"
       ],
-      "index": 75,
+      "index": 43,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "柏楚电子",
-      "job": "AI算法、感知/几何/机器人算法、运动控制、图形学、C++、WebCAD、嵌入式、软件开发、机械/光学/电子设计、PCB、FPGA、测试、产品经理、技术支持、海外销售、人力、质量、工艺",
+      "name": "曼伦",
+      "job": "产品、运营、内容、主播、数据营销、组织发展、供应链等",
       "deadline": "尽快投递",
       "directions": [
-        "销售",
-        "外贸"
+        "供应链"
       ],
-      "index": 76,
+      "index": 44,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -348,28 +150,7 @@
       "directions": [
         "供应链"
       ],
-      "index": 77,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "阳光保险",
-      "job": "数据挖掘、AI应用、领鹰管培生，科技培训生，管理培训生，销售培训生",
-      "deadline": "尽快投递",
-      "directions": [
-        "销售",
-        "管培生"
-      ],
-      "index": 78,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "万辰集团",
-      "job": "辰星计划；管培方向：前台类、技术类、中后台",
-      "deadline": "尽快投递",
-      "directions": [
-        "管培生"
-      ],
-      "index": 80,
+      "index": 45,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -380,7 +161,74 @@
         "销售",
         "管培生"
       ],
-      "index": 81,
+      "index": 47,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "格力电器",
+      "job": "大类：技术研发、信息技术、技术支持、制造技术、经营销售、行政职能、采购物流 ； 岗位：结构设计、制冷技术、电气设计、电控软硬件等，更多详见网申职位",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售",
+        "采购",
+        "供应链"
+      ],
+      "index": 48,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "扬腾创新",
+      "job": "算法/战略/供应链/运营/技术研发",
+      "deadline": "尽快投递",
+      "directions": [
+        "供应链"
+      ],
+      "index": 49,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "浩鲸科技",
+      "job": "🔹算法研发类：推理加速工程师、VLA 算法工程师、导航与控制算法工程师、强化学习运控算法工程师、语音算法工程师； 🔹硬件嵌入式类：嵌入式软件工程师； 🔹软件开发类：Java 开发工程师、后端开发工程师； 🔹国际业务类：海外销售管培生、交付运维工程师、国际交付工程师、项目经理管培生等； 🔹产品职能类：产品经理管培生、交付工程师、人力资源管培生",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售",
+        "外贸",
+        "管培生"
+      ],
+      "index": 53,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "富特科技",
+      "job": "营销、技术研发、管培、项目管理、供应链",
+      "deadline": "尽快投递",
+      "directions": [
+        "供应链",
+        "管培生"
+      ],
+      "index": 54,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "锐捷网络",
+      "job": "🔹研发类：嵌入式、软件开发、测试、算法、技术研究等； 🔹产品类：产品经理、产品运营； 🔹市场销售类：销售工程师、营销管培、技术支持； 🔹设计类：UI/UX设计； 🔹职能类：人力、财务、供应链、综合管培生等",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售",
+        "供应链",
+        "管培生"
+      ],
+      "index": 55,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "万辰集团",
+      "job": "辰星计划；管培方向：前台类、技术类、中后台",
+      "deadline": "尽快投递",
+      "directions": [
+        "管培生"
+      ],
+      "index": 56,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -390,17 +238,17 @@
       "directions": [
         "销售"
       ],
-      "index": 82,
+      "index": 57,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "美的集团",
-      "job": "研发技术 | 信息技术 | 制造技术 | 供应链物流",
+      "name": "天赐材料",
+      "job": "1、 研发工艺类 ； 2、 制造技术类； 3、 运营支持类； 4、 职能类； 5、 销售类",
       "deadline": "尽快投递",
       "directions": [
-        "供应链"
+        "销售"
       ],
-      "index": 84,
+      "index": 60,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -411,7 +259,138 @@
         "销售",
         "采购"
       ],
-      "index": 88,
+      "index": 63,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "嘉士伯",
+      "job": "商务（销售 数字化营销）/供应链（包装 酿造 仓储 采购）/职能（市场 人力资源）",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售",
+        "采购",
+        "供应链"
+      ],
+      "index": 64,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "柏楚电子",
+      "job": "AI算法、感知/几何/机器人算法、运动控制、图形学、C++、WebCAD、嵌入式、软件开发、机械/光学/电子设计、PCB、FPGA、测试、产品经理、技术支持、海外销售、人力、质量、工艺",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售",
+        "外贸"
+      ],
+      "index": 65,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "昂科技术",
+      "job": "🔹研发技术类：嵌入式软件工程师、FPGA工程师、硬件设计工程师、信号完整性工程师、硬件测试工程师、工艺工程师、机械工程师、驱动工程师； 🔹销售技术支持类：销售工程师、技术支持工程师； 🔹职能综合类：财务、人力、供应链相关岗位",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售",
+        "供应链"
+      ],
+      "index": 66,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "图拉斯",
+      "job": "国内营销 | 海外营销 | 财务金融 | 管理类",
+      "deadline": "尽快投递",
+      "directions": [
+        "外贸"
+      ],
+      "index": 68,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "三一集团",
+      "job": "研发技术、计算机及AI、生产制造、营销服务、商务采购、财务金融、综合管理",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售",
+        "采购"
+      ],
+      "index": 69,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "九号公司",
+      "job": "研发、产品、设计、营销、供应链、职能、质量等",
+      "deadline": "尽快投递",
+      "directions": [
+        "供应链"
+      ],
+      "index": 71,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "特锐德",
+      "job": "研发技术类、研发技术类、营销商务类、职能综合类",
+      "deadline": "",
+      "directions": [
+        "销售"
+      ],
+      "index": 72,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "银泰商业",
+      "job": "AI 系统工程师，业务管培生，服务运营管培生，AI创意设计管培生，智能账务管培生等",
+      "deadline": "尽快投递",
+      "directions": [
+        "管培生"
+      ],
+      "index": 74,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "三棵树",
+      "job": "I类：AI应用与数智化工程师，场景AI应用工程师等； 营销业务类：B端/C端营销、仿石漆营销、海外营销（小语种优先）； 技术研发类：产品管理、质量检测（高分子/化工/材料类优先）； 供应链类：生产管理、采购、计划、物流管理； 职能支持类：财务、品牌设计、行政接待、数智中心",
+      "deadline": "尽快投递",
+      "directions": [
+        "采购",
+        "供应链",
+        "外贸"
+      ],
+      "index": 75,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "奥克斯",
+      "job": "电控硬件研发｜嵌入式软件｜仿真结构｜材料工艺｜产品规划｜供应链运营｜全球化营销｜智领管培（理工 / 商科多专业可投",
+      "deadline": "尽快投递",
+      "directions": [
+        "供应链",
+        "管培生"
+      ],
+      "index": 76,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "极兔速递",
+      "job": "产品研发类：算法、产品、技术开发等； 物流营运类：营运管培、质量、供应链等； 财务审计类：财务、审计、风控等； 综合职能类：人力、法务、品牌、采购等； 小语种类：西语、葡语、阿语、东南亚语种相关岗位； 海外管培：多国海外驻地岗位，出海发展机会丰富",
+      "deadline": "",
+      "directions": [
+        "采购",
+        "供应链",
+        "管培生"
+      ],
+      "index": 77,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "SHEIN",
+      "job": "✅供应链仓储：供应链/EHS管培、关务、国际物流、仓网计划、仓储质量、安全运营； ✅服装商品：商品企划、买手、数据分析师、项目管理、精益工程师、质量、供应商、招商、面辅料； ✅技术：Java工程师（广州）； ✅营销运营：营销中台管培、平台治理、KOL营销、大促运营",
+      "deadline": "尽快投递",
+      "directions": [
+        "供应链",
+        "管培生"
+      ],
+      "index": 80,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -422,48 +401,58 @@
         "采购",
         "供应链"
       ],
-      "index": 90,
+      "index": 84,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "高途教育科技",
-      "job": "素养学习顾问 销售类",
+      "name": "牧原集团",
+      "job": "岗位方向：肉食生产、采购、环保、制冷、工艺设备、数字化算法、供应链、财务、人力、养殖储备、饲料技术等",
       "deadline": "尽快投递",
       "directions": [
-        "销售"
+        "采购",
+        "供应链"
       ],
-      "index": 91,
+      "index": 85,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "思特威",
-      "job": "数字电路设计工程师、模拟电路设计工程师、数字后端工程师、图像算法工程师、AI芯片软件工程师、像素验证工程师、像素仿真工程师、平台验证工程师、软件开发工程师、项目管理工程师、技术支持工程师、供应链工程师等岗位热招中",
+      "name": "美的集团",
+      "job": "研发技术 | 信息技术 | 制造技术 | 供应链物流",
       "deadline": "尽快投递",
+      "directions": [
+        "供应链"
+      ],
+      "index": 89,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "安克创新",
+      "job": "算法类/硬件研发类/营销类/产品类/战略类/服务类/项目管理类/供应链类/人力资源类/质量类",
+      "deadline": "尽快投递",
+      "directions": [
+        "供应链"
+      ],
+      "index": 93,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "汇川技术",
+      "job": "技术类、营销类、质量类、技能类、供应链管理类、职能类",
+      "deadline": "招完即止",
+      "directions": [
+        "供应链"
+      ],
+      "index": 94,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "海信集团",
+      "job": "软件算法类、硬件研发类、技术类、暖通制冷类、光学及显示类、芯片类、营销类、运营类、供应链管理类、生产制造类、质量类、职能类等。AI产品经理、AI开发工程师、算法工程师（大模型方向/具身智能方向/AI应用方向）、Agent开发工程师（机器人）、运动控制工程师（机器人）、AI应用安全工程师、智能体运营工程师等。",
+      "deadline": "招完即止",
       "directions": [
         "供应链"
       ],
       "index": 95,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "亿道集团",
-      "job": "研发类：嵌入式软件工程师Java/C语言方向、硬件工程师、结构工程师等.； 营销类：销售助理、商务助理...； 其他：采购工程师、PMC工程师、质量工程师等",
-      "deadline": "尽快投递",
-      "directions": [
-        "销售",
-        "采购"
-      ],
-      "index": 97,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "传音控股-人才计划",
-      "job": "软件开发类；硬件开发类；算法类；测试类；数据类；产品类；运营类；市场营销类；供应链类；综合职能类",
-      "deadline": "尽快投递",
-      "directions": [
-        "供应链"
-      ],
-      "index": 100,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -478,13 +467,34 @@
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "安克创新",
-      "job": "算法类/硬件研发类/营销类/产品类/战略类/服务类/项目管理类/供应链类/人力资源类/质量类",
+      "name": "ZURU（玩具外企）",
+      "job": "产品、研发、设计、管培、财务等",
       "deadline": "尽快投递",
       "directions": [
-        "供应链"
+        "管培生"
+      ],
+      "index": 103,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "卧安机器人",
+      "job": "算法工程师、运营管培生、人力资源专员",
+      "deadline": "11.30日",
+      "directions": [
+        "管培生"
       ],
       "index": 105,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "亿道集团",
+      "job": "研发类：嵌入式软件工程师Java/C语言方向、硬件工程师、结构工程师等.； 营销类：销售助理、商务助理...； 其他：采购工程师、PMC工程师、质量工程师等",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售",
+        "采购"
+      ],
+      "index": 108,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -495,67 +505,17 @@
         "销售",
         "管培生"
       ],
-      "index": 106,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "海信集团",
-      "job": "软件算法类、硬件研发类、技术类、暖通制冷类、光学及显示类、芯片类、营销类、运营类、供应链管理类、生产制造类、质量类、职能类等。AI产品经理、AI开发工程师、算法工程师（大模型方向/具身智能方向/AI应用方向）、Agent开发工程师（机器人）、运动控制工程师（机器人）、AI应用安全工程师、智能体运营工程师等。",
-      "deadline": "招完即止",
-      "directions": [
-        "供应链"
-      ],
-      "index": 107,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "星宸科技",
-      "job": "芯片岗、算法岗、嵌入式软件岗、供应链岗",
-      "deadline": "招完即止",
-      "directions": [
-        "供应链"
-      ],
       "index": 110,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "九坤投资（揽月计划）",
-      "job": "量化交易分析师、HR管培生",
-      "deadline": "招完即止",
-      "directions": [
-        "管培生"
-      ],
-      "index": 112,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "ZURU（玩具外企）",
-      "job": "产品、研发、设计、管培、财务等",
-      "deadline": "尽快投递",
-      "directions": [
-        "管培生"
-      ],
-      "index": 120,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "TP-Link联洲",
-      "job": "研发类、营销类、制造类、供应链类、人力资源类、财务类",
-      "deadline": "招完即止",
-      "directions": [
-        "供应链"
-      ],
-      "index": 121,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "TCL实业",
-      "job": "研发技术类、产品设计类、市场营销类、智能制造类、供应链类、财务金融类、综合管理类",
+      "name": "传音控股-人才计划",
+      "job": "软件开发类；硬件开发类；算法类；测试类；数据类；产品类；运营类；市场营销类；供应链类；综合职能类",
       "deadline": "尽快投递",
       "directions": [
         "供应链"
       ],
-      "index": 122,
+      "index": 113,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -565,27 +525,7 @@
       "directions": [
         "销售"
       ],
-      "index": 123,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "睿联技术",
-      "job": "产品研发类｜销售运营类｜市场推广类｜职能支持类",
-      "deadline": "尽快投递",
-      "directions": [
-        "销售"
-      ],
-      "index": 125,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "TPLINK普联",
-      "job": "研发类、营销类、制造类、供应链类、人力资源类、财务类",
-      "deadline": "招完即止",
-      "directions": [
-        "供应链"
-      ],
-      "index": 126,
+      "index": 114,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -596,28 +536,17 @@
         "销售",
         "供应链"
       ],
-      "index": 127,
+      "index": 115,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "汇川技术",
-      "job": "技术类、营销类、质量类、技能类、供应链管理类、职能类",
+      "name": "九坤投资（揽月计划）",
+      "job": "量化交易分析师、HR管培生",
       "deadline": "招完即止",
       "directions": [
-        "供应链"
+        "管培生"
       ],
-      "index": 129,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "康冠科技",
-      "job": "算法类、软件类、硬件类、结构/光学类、产品类、设计类、技术类、职能类、商务类、供应链类",
-      "deadline": "招完即止",
-      "directions": [
-        "销售",
-        "供应链"
-      ],
-      "index": 130,
+      "index": 117,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -628,7 +557,58 @@
         "销售",
         "管培生"
       ],
-      "index": 132,
+      "index": 118,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "思特威",
+      "job": "数字电路设计工程师、模拟电路设计工程师、数字后端工程师、图像算法工程师、AI芯片软件工程师、像素验证工程师、像素仿真工程师、平台验证工程师、软件开发工程师、项目管理工程师、技术支持工程师、供应链工程师等岗位热招中",
+      "deadline": "尽快投递",
+      "directions": [
+        "供应链"
+      ],
+      "index": 119,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "TCL实业",
+      "job": "研发技术类、产品设计类、市场营销类、智能制造类、供应链类、财务金融类、综合管理类",
+      "deadline": "尽快投递",
+      "directions": [
+        "供应链"
+      ],
+      "index": 120,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "TPLINK普联",
+      "job": "研发类、营销类、制造类、供应链类、人力资源类、财务类",
+      "deadline": "招完即止",
+      "directions": [
+        "供应链"
+      ],
+      "index": 124,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "康冠科技",
+      "job": "算法类、软件类、硬件类、结构/光学类、产品类、设计类、技术类、职能类、商务类、供应链类",
+      "deadline": "招完即止",
+      "directions": [
+        "销售",
+        "供应链"
+      ],
+      "index": 125,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "星宸科技",
+      "job": "芯片岗、算法岗、嵌入式软件岗、供应链岗",
+      "deadline": "招完即止",
+      "directions": [
+        "供应链"
+      ],
+      "index": 127,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -639,7 +619,47 @@
         "销售",
         "供应链"
       ],
-      "index": 135,
+      "index": 131,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "远景能源",
+      "job": "研发类、产品类、工艺开发类、深度制造类、供应链类、职能类等",
+      "deadline": "招完即止",
+      "directions": [
+        "供应链"
+      ],
+      "index": 132,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "TP-Link联洲",
+      "job": "研发类、营销类、制造类、供应链类、人力资源类、财务类",
+      "deadline": "招完即止",
+      "directions": [
+        "供应链"
+      ],
+      "index": 134,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "睿联技术",
+      "job": "产品研发类｜销售运营类｜市场推广类｜职能支持类",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售"
+      ],
+      "index": 140,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "高途教育科技",
+      "job": "素养学习顾问 销售类",
+      "deadline": "尽快投递",
+      "directions": [
+        "销售"
+      ],
+      "index": 144,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -650,17 +670,7 @@
         "销售",
         "供应链"
       ],
-      "index": 141,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "远景能源",
-      "job": "研发类、产品类、工艺开发类、深度制造类、供应链类、职能类等",
-      "deadline": "招完即止",
-      "directions": [
-        "供应链"
-      ],
-      "index": 145,
+      "index": 146,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -670,27 +680,7 @@
       "directions": [
         "供应链"
       ],
-      "index": 147,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "卧安机器人",
-      "job": "算法工程师、运营管培生、人力资源专员",
-      "deadline": "11.30日",
-      "directions": [
-        "管培生"
-      ],
       "index": 148,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "百度-管理培训生",
-      "job": "管培生",
-      "deadline": "招完即止",
-      "directions": [
-        "管培生"
-      ],
-      "index": 149,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -701,17 +691,7 @@
         "销售",
         "供应链"
       ],
-      "index": 153,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "海尔顶尖人才计划",
-      "job": "管培方向：LTDP 智领计划-复合型全球领军人才发展计划； 技术方向：GEDP-全球卓越工程师发展计划、MEDP-智造技术工程师发展计划； 市场方向：GMTP-海外市场领航者计划、DMAP-中国区数智市场精英计划",
-      "deadline": "",
-      "directions": [
-        "管培生"
-      ],
-      "index": 157,
+      "index": 155,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -725,27 +705,7 @@
         "外贸",
         "管培生"
       ],
-      "index": 164,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "万得 Wind",
-      "job": "管培生类、职能类、人工智能类、软件研发类、数据类等",
-      "deadline": "",
-      "directions": [
-        "管培生"
-      ],
-      "index": 165,
-      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
-    },
-    {
-      "name": "好未来管培生",
-      "job": "GTM管培生 运营方向",
-      "deadline": "",
-      "directions": [
-        "管培生"
-      ],
-      "index": 166,
+      "index": 158,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -755,18 +715,27 @@
       "directions": [
         "销售"
       ],
-      "index": 168,
+      "index": 162,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
-      "name": "微步在线",
-      "job": "研发｜安全｜产品｜设计｜销售管培｜市场运营",
-      "deadline": "招完即止",
+      "name": "万得 Wind",
+      "job": "管培生类、职能类、人工智能类、软件研发类、数据类等",
+      "deadline": "",
       "directions": [
-        "销售",
         "管培生"
       ],
-      "index": 172,
+      "index": 167,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "好未来管培生",
+      "job": "GTM管培生 运营方向",
+      "deadline": "",
+      "directions": [
+        "管培生"
+      ],
+      "index": 170,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     },
     {
@@ -777,7 +746,38 @@
         "供应链",
         "管培生"
       ],
-      "index": 179,
+      "index": 171,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "微步在线",
+      "job": "研发｜安全｜产品｜设计｜销售管培｜市场运营",
+      "deadline": "招完即止",
+      "directions": [
+        "销售",
+        "管培生"
+      ],
+      "index": 178,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "海尔顶尖人才计划",
+      "job": "管培方向：LTDP 智领计划-复合型全球领军人才发展计划； 技术方向：GEDP-全球卓越工程师发展计划、MEDP-智造技术工程师发展计划； 市场方向：GMTP-海外市场领航者计划、DMAP-中国区数智市场精英计划",
+      "deadline": "",
+      "directions": [
+        "管培生"
+      ],
+      "index": 181,
+      "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
+    },
+    {
+      "name": "百度-管理培训生",
+      "job": "管培生",
+      "deadline": "招完即止",
+      "directions": [
+        "管培生"
+      ],
+      "index": 183,
       "sourceUrl": "https://docs.qq.com/smartsheet/DTnJ2Y1F5YWRHdkRw"
     }
   ]
