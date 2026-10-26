@@ -1,6 +1,5 @@
 {
-  "ok": true,
-  "updatedAt": "2026-10-25 20:46",
-  "sourceTotal": 193,
-  "relevantCount": 75
+  "ok": false,
+  "updatedAt": "2026-10-26 04:39",
+  "error": "The read operation timed out"
 }
